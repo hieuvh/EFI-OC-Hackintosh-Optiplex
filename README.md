@@ -1,7 +1,7 @@
 # EFI-OC-Hackintosh-Optiplex
 EFI  Open Core for Optiplex 9020. Support latest Big Sur.
 
-# Hardware Acceleration
+# iGPU
 * VGA doesn't work, use Display Port or HDMI instead.
 
 # Reference
