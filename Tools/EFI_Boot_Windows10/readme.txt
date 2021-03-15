@@ -1,0 +1,1 @@
+if MacOS and Windows in one disk: Copy to EFI folder with Open Core (OC). else don't need it.
